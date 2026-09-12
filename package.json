@@ -1,0 +1,27 @@
+{
+  "name": "trip-itinerary-gen",
+  "version": "1.0.0",
+  "description": "Turn a simple JSON trip file into a polished, branded travel itinerary document (.docx).",
+  "main": "src/generate.js",
+  "bin": {
+    "trip-itinerary-gen": "src/generate.js"
+  },
+  "scripts": {
+    "start": "node src/generate.js",
+    "example": "node src/generate.js examples/sample-trip.json"
+  },
+  "keywords": [
+    "travel",
+    "itinerary",
+    "docx",
+    "trip-planner",
+    "document-generator"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "docx": "^9.0.2"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
