@@ -1,0 +1,30 @@
+{
+  "title": "Meghalaya",
+  "subtitle": "A 6-Day Journey Through Living Bridges, Clouds & Rivers",
+  "overview": "A 6-day loop through Meghalaya covering Shillong's viewpoints, the waterfalls and caves of Sohra (Cherrapunji), the living root bridges of Nongriat and Mawlynnong, and the crystal-clear Umngot River at Dawki.",
+  "notes": [
+    { "label": "Best time to visit", "text": "September to February for clear skies; June to August for fuller waterfalls." },
+    { "label": "Good to know", "text": "Carry cash \u2014 many local ticket counters do not accept UPI or cards." }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrival in Shillong",
+      "activities": [
+        { "time": "2:00 PM", "name": "Shillong Peak", "note": "Best panoramic view of the city; photo ID required" },
+        { "time": "4:00 PM", "name": "Elephant Falls", "note": "Three-tiered waterfall, easy walk" }
+      ],
+      "stay": "Shillong"
+    },
+    {
+      "day": 2,
+      "title": "Laitlum Canyon & Drive to Sohra",
+      "activities": [
+        { "time": "7:30 AM", "name": "Laitlum Canyon", "note": "Known as the 'End of the World'" },
+        { "time": "2:00 PM", "name": "Mawsmai Cave", "note": "Well-lit limestone cave, easy walk-through" }
+      ],
+      "stay": "Sohra (Cherrapunji)"
+    }
+  ],
+  "footer": "Reach out and we'll help you customize timings, pace, or stops."
+}
